@@ -16,7 +16,7 @@
 
 	<!--link rel="canonical" href="https://demo-basic.adminkit.io/" /-->
 
-	<title>Biazo Shopping Management System</title>
+	<title>Biazo.com Spend Less. Smile More</title>
 
 	<link href="css/app.css" rel="stylesheet">
 	<link href="css/custom.css" rel="stylesheet">
