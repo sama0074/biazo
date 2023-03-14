@@ -4,7 +4,7 @@
 
         if (!isset($_SESSION['username'])) {
             header("Location: auth-login.php");
-        }
+        
 	include "includes/head.php";
 	include "includes/sidebar.php";
 

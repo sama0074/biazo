@@ -2,7 +2,7 @@
     session_start();
 
     if (!isset($_SESSION['username'])) {
-        header("Location: ../app_auth.php");
+        header("Location: auth-login.php");
     }
     include "includes/head.php";
     include "includes/sidebar.php";
