@@ -17,15 +17,17 @@
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-    <link href="../css/app.css" rel="stylesheet">
 
     <!--Font Awesome-->
     <script src="https://kit.fontawesome.com/2ced7dcf7e.js" crossorigin="anonymous"></script>
 
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="assets/fastfood.css">
+    <title>Hello, world!</title>
 
 
-    
+
+
+
     <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
     <script>
     $(document).ready(function(){
@@ -42,7 +44,6 @@
         }).change();
     });
     </script>
-
   </head>
-  <body>
-    
+  <body style="background-color: #f9f9f9">
+

@@ -12,21 +12,24 @@
     <script src="assets/js/Vendor/jquery/jquery-1.8.3.min.js"></script>
 
     <!--Slider Slick-->
-    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.css">
-    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick-theme.min.css">
+    <link rel="stylesheet" type="text/css" href="assets/slick.min.css">
+    <link rel="stylesheet" type="text/css" href="assets/slick-theme.min.css">
 
     <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-    <link href="../css/app.css" rel="stylesheet">
+    <link rel="stylesheet" href="assets/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link href="css/app.css" rel="stylesheet">
 
     <!--Font Awesome-->
-    <script src="https://kit.fontawesome.com/2ced7dcf7e.js" crossorigin="anonymous"></script>
+    <script src="assets/2ced7dcf7e.js" crossorigin="anonymous"></script>
 
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="assets/custom.css">
+    <title>Biazo.com. Spend Less. Look Good</title>
 
 
-    
-    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+
+
+
+    <script src="assets/jquery-3.5.1.min.js"></script>
     <script>
     $(document).ready(function(){
         $("select").change(function(){
@@ -42,7 +45,6 @@
         }).change();
     });
     </script>
-
   </head>
-  <body>
-    
+  <body style="background-color: #f9f9f9">
+
